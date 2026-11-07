@@ -41,6 +41,11 @@ I build across the hardware–software boundary: autonomous drones, power electr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub contribution koi" />
+</p>
+
 ## 📊 GitHub stats
 
 <p>
