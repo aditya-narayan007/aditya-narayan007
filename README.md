@@ -1,7 +1,6 @@
 # Hi, I'm Aditya 👋
 
-**ECE (Microelectronics) @ NIT Patna** · Integrated B.Tech + M.Tech, 2024–2029
-Joint Secretary, Robotics Club NITP
+**ECE (VLSI and Microelectronics) @ NIT Patna** · Integrated B.Tech + M.Tech, 2024–2029
 
 I build across the hardware–software boundary: autonomous drones, power electronics, embedded firmware, RF/microwave systems, and the software that ties them together.
 
